@@ -1,0 +1,6 @@
+﻿  LocalCallStackCleaner.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 146 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LocalCallStackCleaner.vcxproj -> C:\Users\s12\Documents\GitHub\Evasion\MalwareDeveloped\LocalCallStackCleaner\x64\Release\LocalCallStackCleaner.exe
